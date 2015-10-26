@@ -1,6 +1,6 @@
 # 3D-illustrated Wallpapers for the 10th Anniversary of Free Software Macedonia (Слободен софтвер Македонија)
 
-The [Free Software Macedonia on Wallpaper ("Слободен софтвер Македонија на тапет")](http://nicer2.com/10-years-free-software-macedonia-wallpapers/) was initially created with 3D Studio Max and rendered with V-Ray. This is a complete re-work in Blender.
+The [Free Software Macedonia on Wallpaper ("Слободен софтвер Македонија на тапет")](http://nicer2.com/10-years-free-software-macedonia-wallpapers/) was initially created with 3D Studio Max and rendered with V-Ray. This is a complete rework in Blender.
 
 ![Free Software Macedonia on Wallpaper sample rendering](Renders/sample.png)
 
@@ -15,7 +15,7 @@ Open in Blender and render (F12). Open the Node editor to change the color of th
 
 ### To-do
 
-- Improve shadow-rendering
-- Add more polish
+- ~~Improve shadow mapping~~
+- ~~Add more polish~~
 - Create localized versions in Macedonian
 - Create renders for each language and color version
