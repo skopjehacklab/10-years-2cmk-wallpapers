@@ -4,7 +4,7 @@ The [Free Software Macedonia on Wallpaper ("Слободен софтвер Ма
 
 ### Requirements
 
-- Blender (created with v. 2.76)
+- [Blender](https://www.blender.org/) (created with v. 2.76)
 - [Roboto Font](https://www.google.com/fonts/specimen/Roboto) from Google Fonts
 
 ### To-do
