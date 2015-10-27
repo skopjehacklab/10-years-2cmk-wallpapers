@@ -17,5 +17,5 @@ Open in Blender and render (F12). Open the Node editor to change the color of th
 
 - ~~Improve shadow mapping~~
 - ~~Add more polish~~
-- Create localized versions in Macedonian
+- ~~Create localized versions in Macedonian~~
 - Create renders for each language and color version
